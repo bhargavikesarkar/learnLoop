@@ -87,7 +87,7 @@ Libraries will be introduced as needed throughout the handbook.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/learnloop.git
+git clone https://github.com/bhargavikesarkar/learnloop.git
 cd learnloop
 ```
 
@@ -110,7 +110,7 @@ On Windows, activate the environment using:
 .venv\Scripts\activate
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
+Replace `bhargavikesarkar` with your GitHub username.
 
 ---
 
